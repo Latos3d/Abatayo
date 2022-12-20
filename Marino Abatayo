@@ -1,0 +1,82 @@
+<html> 
+ <head> 
+  <title>Marino Abatayo, IT Engineer</title> 
+  <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #eee;
+      }
+      h1 {
+        color: #333;
+      }
+      h2 {
+        color: #555;
+      }
+      p {
+        width: 80%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 1.5;
+        text-align: left;
+      }
+      img {
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+      }
+      .section {
+        background-color: #ddd;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 5px;
+      }
+      .section h3 {
+        color: #888;
+      }
+      .skills {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+      }
+      .skill {
+        width: 30%;
+        text-align: left;
+        margin: 10px 0;
+        padding: 20px;
+        border-radius: 5px;
+        background-color: #f8f8f8;
+      }
+      .skill h4 {
+        color: #444;
+      }
+      .skill p {
+        color: #777;
+      }
+    </style> 
+ </head> 
+ <body> 
+  <h1>Marino Abatayo</h1> 
+  <h2>IT Engineer</h2> 
+  <img src="marino-abatayo.jpg" alt="Marino Abatayo"> 
+  <p>Welcome to my website! I am Marino Abatayo, an IT engineer with a passion for solving complex problems and creating efficient solutions. I have a strong background in computer science and have worked on a wide range of projects, including web development, system administration, and network engineering.</p> 
+  <div class="section"> 
+   <h3>Experience</h3> 
+   <p>I have over 5 years of professional experience in the IT industry. I have worked at companies of various sizes, from small startups to large enterprises. Some of the projects I have worked on include:</p> 
+   <ul> 
+    <li>Developing and maintaining a cloud-based CRM system for a marketing agency</li> 
+    <li>Designing and implementing a secure, high-performance network for a healthcare organization</li> 
+    <li>Leading a team of developers in the creation of a mobile app for a retail company</li> 
+   </ul> 
+  </div> 
+  <div class="section"> 
+   <h3>Skills</h3> 
+   <div class="skills"> 
+    <div class="skill"> 
+     <h4>Web Development</h4> 
+     <p>I have experience building and maintaining web applications using languages such as HTML, CSS, JavaScript, and PHP. I am proficient in frameworks such as Laravel and AngularJS, and have a good understanding of responsive design and cross-browser </p> 
+    </div> 
+   </div> 
+  </div> 
+ </body>
+</html>
